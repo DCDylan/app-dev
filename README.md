@@ -3,7 +3,7 @@
 <UL>
   <LI>It is based on a novel written by J. K. Rowling</LI>
   <LI>
-    <img src="Github_repo_Images/jkr.webg" alt="J. K. Rowling" width="200">
+    <img src="images/jkr.webg" alt="J. K. Rowling" width="200">
   </LI>
   <LI>It consists of 7 novels</LI>
   <LI>
